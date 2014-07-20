@@ -1,4 +1,6 @@
 # Reproducible Research: Peer Assessment 1
+Logan Yang  
+summer 2014
 
 
 

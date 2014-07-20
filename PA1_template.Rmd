@@ -1,4 +1,6 @@
 # Reproducible Research: Peer Assessment 1
+Logan Yang  
+summer 2014
 
 ```{r setoptions, echo=FALSE}
 opts_chunk$set(echo = TRUE, cache = TRUE)
